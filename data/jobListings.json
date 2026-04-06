@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Flipkart",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "8-14 LPA",
+    "remote": false,
+    "seniority": "junior",
+    "yearsReq": 0,
+    "skills": {
+      "core": ["react", "javascript", "html", "css"],
+      "adjacent": ["typescript", "git", "redux", "testing"],
+      "bonus": ["webpack", "graphql", "storybook", "figma"]
+    },
+    "description": "Build scalable UI components for India's largest e-commerce platform.",
+    "applyUrl": "https://careers.flipkart.com"
+  },
+  {
+    "id": 2,
+    "title": "Full Stack Engineer",
+    "company": "Razorpay",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "12-20 LPA",
+    "remote": true,
+    "seniority": "mid",
+    "yearsReq": 2,
+    "skills": {
+      "core": ["node", "react", "postgresql", "rest"],
+      "adjacent": ["docker", "redis", "typescript", "git"],
+      "bonus": ["kafka", "microservices", "aws", "kubernetes"]
+    },
+    "description": "Own end-to-end features across Razorpay's payments infrastructure.",
+    "applyUrl": "https://razorpay.com/jobs"
+  },
+  {
+    "id": 3,
+    "title": "SDE-1",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "20-35 LPA",
+    "remote": false,
+    "seniority": "junior",
+    "yearsReq": 0,
+    "skills": {
+      "core": ["java", "algorithms", "data structures", "sql"],
+      "adjacent": ["python", "aws", "system design", "git"],
+      "bonus": ["distributed systems", "kafka", "dynamo", "cdk"]
+    },
+    "description": "Work on large-scale distributed systems serving millions of customers.",
+    "applyUrl": "https://amazon.jobs"
+  },
+  {
+    "id": 4,
+    "title": "Backend Engineer",
+    "company": "PhonePe",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "10-18 LPA",
+    "remote": false,
+    "seniority": "mid",
+    "yearsReq": 1,
+    "skills": {
+      "core": ["node", "express", "mongodb", "rest"],
+      "adjacent": ["redis", "docker", "postgresql", "git"],
+      "bonus": ["kafka", "microservices", "grpc", "prometheus"]
+    },
+    "description": "Build high-throughput payment APIs handling 500M+ transactions.",
+    "applyUrl": "https://phonepe.com/careers"
+  },
+  {
+    "id": 5,
+    "title": "ML Engineer",
+    "company": "Google",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "25-45 LPA",
+    "remote": false,
+    "seniority": "mid",
+    "yearsReq": 2,
+    "skills": {
+      "core": ["python", "tensorflow", "machine learning", "nlp"],
+      "adjacent": ["pytorch", "sklearn", "sql", "git"],
+      "bonus": ["kubernetes", "gcp", "spark", "mlflow"]
+    },
+    "description": "Develop ML models powering Google Search and Assistant.",
+    "applyUrl": "https://careers.google.com"
+  },
+  {
+    "id": 6,
+    "title": "React Developer Intern",
+    "company": "ClearTax",
+    "location": "Remote",
+    "type": "Internship",
+    "salary": "25-35 k/month",
+    "remote": true,
+    "seniority": "junior",
+    "yearsReq": 0,
+    "skills": {
+      "core": ["react", "javascript", "html", "css"],
+      "adjacent": ["git", "typescript", "rest"],
+      "bonus": ["tailwind", "jest", "figma"]
+    },
+    "description": "Build tax-filing UI components used by 6M+ SMEs.",
+    "applyUrl": "https://cleartax.in/careers"
+  },
+  {
+    "id": 7,
+    "title": "MERN Stack Developer",
+    "company": "Zomato",
+    "location": "Gurgaon",
+    "type": "Full-time",
+    "salary": "10-16 LPA",
+    "remote": false,
+    "seniority": "junior",
+    "yearsReq": 0,
+    "skills": {
+      "core": ["mongodb", "express", "react", "node"],
+      "adjacent": ["javascript", "rest", "git", "docker"],
+      "bonus": ["redis", "graphql", "typescript", "aws"]
+    },
+    "description": "Own features across Zomato's food delivery and restaurant platform.",
+    "applyUrl": "https://www.zomato.com/careers"
+  },
+  {
+    "id": 8,
+    "title": "DevOps / Cloud Engineer",
+    "company": "Infosys",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "8-15 LPA",
+    "remote": true,
+    "seniority": "junior",
+    "yearsReq": 0,
+    "skills": {
+      "core": ["docker", "kubernetes", "aws", "linux"],
+      "adjacent": ["terraform", "git", "python", "bash"],
+      "bonus": ["prometheus", "grafana", "jenkins", "ansible"]
+    },
+    "description": "Automate CI/CD pipelines and manage cloud infrastructure at scale.",
+    "applyUrl": "https://www.infosys.com/careers"
+  },
+  {
+    "id": 9,
+    "title": "Data Engineer",
+    "company": "Swiggy",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "14-22 LPA",
+    "remote": false,
+    "seniority": "mid",
+    "yearsReq": 1,
+    "skills": {
+      "core": ["python", "sql", "spark", "data pipelines"],
+      "adjacent": ["airflow", "kafka", "postgresql", "git"],
+      "bonus": ["dbt", "bigquery", "aws", "scala"]
+    },
+    "description": "Build real-time data pipelines processing 10M+ orders per day.",
+    "applyUrl": "https://swiggy.com/careers"
+  },
+  {
+    "id": 10,
+    "title": "Software Engineer (AI/ML)",
+    "company": "Microsoft",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "22-40 LPA",
+    "remote": true,
+    "seniority": "mid",
+    "yearsReq": 2,
+    "skills": {
+      "core": ["python", "machine learning", "rest", "sql"],
+      "adjacent": ["azure", "docker", "react", "typescript"],
+      "bonus": ["mlflow", "kubernetes", "openai", "langchain"]
+    },
+    "description": "Build AI features integrated into Microsoft 365 and Copilot.",
+    "applyUrl": "https://careers.microsoft.com"
+  }
+]
